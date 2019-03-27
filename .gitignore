@@ -1,0 +1,7 @@
+HandBrakeCLIHelp.txt
+*.csv
+**/Logs/*
+tvpath.txt
+tvpath_full.txt
+moviepath.txt
+moviepath_full.txt
